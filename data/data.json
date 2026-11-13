@@ -1,0 +1,15 @@
+{"stations":{"Asrama UI":[575,330],"Menwa":[1130,420],"Stasiun UI":[1130,613],"FH":[1130,1097],"Masjid UI":[1107,1331],"St. Pondok Cina":[1130,1563],"RIK":[1155,1857],"FKM":[1084,1991],"RSUI":[923,1991],"FIK":[762,1991],"FMIPA":[620,1915],"SOR":[478,1857],"Vokasi":[304,1680],"Pusgiwa":[438,1810],"Farmasi":[625,1810],"Balai Sidang":[811,1810],"Balairung":[998,1810],"FT":[304,985],"FEB":[438,863],"FIB":[609,863],"FISIP":[780,863],"FPsi":[952,863]},
+"canteens":[
+{"id":1,"name":"Kantin Teknik","st":"FT","rating":4.5,"menu":[["Nasi Ayam Penyet",18000,"Ayam",1],["Mie Goreng Spesial",14000,"Mie",0],["Es Teh Jumbo",5000,"Minuman",0]]},
+{"id":2,"name":"Kantin FEB","st":"FEB","rating":4.3,"menu":[["Nasi Rames",15000,"Nasi",0],["Ayam Geprek",16000,"Ayam",1],["Kopi Susu Gula Aren",12000,"Minuman",0]]},
+{"id":3,"name":"Kantin Sastra (FIB)","st":"FIB","rating":4.6,"menu":[["Soto Betawi",22000,"Nasi",1],["Gado-gado",14000,"Vegetarian",0],["Es Jeruk",6000,"Minuman",0]]},
+{"id":4,"name":"Kantin FISIP","st":"FISIP","rating":4.2,"menu":[["Bakso Urat",15000,"Mie",1],["Nasi Goreng Kampung",13000,"Nasi",0],["Pisang Goreng",7000,"Snack",0]]},
+{"id":5,"name":"Kantin Psikologi","st":"FPsi","rating":4.4,"menu":[["Chicken Katsu Rice",20000,"Ayam",1],["Salad Buah",12000,"Vegetarian",0],["Matcha Latte",15000,"Minuman",0]]},
+{"id":6,"name":"Kantin FH","st":"FH","rating":4.1,"menu":[["Nasi Padang Ayam",19000,"Nasi",1],["Mie Ayam Bakso",14000,"Mie",0],["Cireng Isi",6000,"Snack",0]]},
+{"id":7,"name":"Kantin Vokasi","st":"Vokasi","rating":4.0,"menu":[["Nasi Telur Balado",11000,"Nasi",0],["Tempe Mendoan",5000,"Snack",0],["Es Campur",9000,"Minuman",1]]},
+{"id":8,"name":"Kantin FMIPA","st":"FMIPA","rating":4.4,"menu":[["Ayam Bakar Madu",21000,"Ayam",1],["Indomie Rebus Telur",10000,"Mie",0],["Tahu Crispy",6000,"Snack",0]]},
+{"id":9,"name":"Kantin Pusgiwa","st":"Pusgiwa","rating":4.3,"menu":[["Nasi Uduk Komplit",16000,"Nasi",1],["Capcay Vegetarian",15000,"Vegetarian",0],["Jus Alpukat",11000,"Minuman",0]]},
+{"id":10,"name":"Kantin Farmasi","st":"Farmasi","rating":4.5,"menu":[["Ayam Goreng Kremes",17000,"Ayam",1],["Mie Ayam Jamur",13000,"Mie",0],["Roti Bakar",8000,"Snack",0]]},
+{"id":11,"name":"Kantin FKM","st":"FKM","rating":4.2,"menu":[["Pecel Lele",15000,"Ayam",0],["Nasi Soto Ayam",14000,"Nasi",1],["Es Kelapa Muda",8000,"Minuman",0]]},
+{"id":12,"name":"Kantin Asrama","st":"Asrama UI","rating":4.7,"menu":[["Nasi Ayam Bakar Taliwang",23000,"Ayam",1],["Mie Kuah Pedas",12000,"Mie",0],["Kopi Hitam",5000,"Minuman",0]]}
+]}

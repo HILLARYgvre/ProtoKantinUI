@@ -1,0 +1,27 @@
+Taruh foto asli di folder ini dengan nama persis seperti di bawah (format .jpg, disarankan rasio 1:1, lebar 600px).
+Foto yang belum ada otomatis diganti ilustrasi emoji.
+
+nasi-ayam-penyet.jpg   <- Nasi Ayam Penyet
+ayam-geprek.jpg   <- Ayam Geprek
+ayam-bakar-madu.jpg   <- Ayam Bakar Madu
+nasi-goreng-kampung.jpg   <- Nasi Goreng Kampung
+nasi-padang.jpg   <- Nasi Padang
+soto-betawi.jpg   <- Soto Betawi
+nasi-uduk-komplit.jpg   <- Nasi Uduk Komplit
+mie-ayam-bakso.jpg   <- Mie Ayam Bakso
+bakso-urat.jpg   <- Bakso Urat
+indomie-rebus-telur.jpg   <- Indomie Rebus Telur
+mie-goreng-spesial.jpg   <- Mie Goreng Spesial
+gado-gado.jpg   <- Gado-gado
+pecel-sayur.jpg   <- Pecel Sayur
+capcay-jamur.jpg   <- Capcay Jamur
+salad-buah.jpg   <- Salad Buah
+es-teh-jumbo.jpg   <- Es Teh Jumbo
+kopi-susu-aren.jpg   <- Kopi Susu Aren
+jus-alpukat.jpg   <- Jus Alpukat
+matcha-latte.jpg   <- Matcha Latte
+es-jeruk.jpg   <- Es Jeruk
+pisang-goreng.jpg   <- Pisang Goreng
+cireng-isi.jpg   <- Cireng Isi
+roti-bakar.jpg   <- Roti Bakar
+tahu-crispy.jpg   <- Tahu Crispy
